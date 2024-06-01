@@ -1,0 +1,30 @@
+2024-05-26 22:35:03,653 - INFO - Train Epoch: 1 Step: 0  Accuracy: 0.06%
+2024-05-26 22:38:49,650 - INFO - Train Epoch: 1 Step: 100  Accuracy: 32.15%
+2024-05-26 22:41:31,146 - INFO - Train Epoch: 1 Step: 172  Accuracy: 67.76%
+2024-05-26 22:41:31,150 - INFO - Final Train Accuracy for Epoch 1: 67.76%
+2024-05-26 22:46:56,778 - INFO - test-average loss: 2.4575, Accuracy:2.855 
+
+2024-05-26 22:46:58,510 - INFO - Train Epoch: 2 Step: 0  Accuracy: 0.54%
+2024-05-26 22:50:41,094 - INFO - Train Epoch: 2 Step: 100  Accuracy: 54.39%
+2024-05-26 22:53:21,616 - INFO - Train Epoch: 2 Step: 172  Accuracy: 94.78%
+2024-05-26 22:53:21,623 - INFO - Final Train Accuracy for Epoch 2: 94.78%
+2024-05-26 22:58:27,068 - INFO - test-average loss: 1.6464, Accuracy:2.855 
+
+2024-05-26 22:58:28,765 - INFO - Train Epoch: 3 Step: 0  Accuracy: 0.56%
+2024-05-26 23:02:08,469 - INFO - Train Epoch: 3 Step: 100  Accuracy: 56.92%
+2024-05-26 23:04:47,773 - INFO - Train Epoch: 3 Step: 172  Accuracy: 97.43%
+2024-05-26 23:04:47,779 - INFO - Final Train Accuracy for Epoch 3: 97.43%
+2024-05-26 23:09:56,590 - INFO - test-average loss: 2.4375, Accuracy:2.855 
+
+2024-05-26 23:09:58,286 - INFO - Train Epoch: 4 Step: 0  Accuracy: 0.55%
+2024-05-26 23:13:39,020 - INFO - Train Epoch: 4 Step: 100  Accuracy: 56.54%
+2024-05-26 23:16:18,398 - INFO - Train Epoch: 4 Step: 172  Accuracy: 97.60%
+2024-05-26 23:16:18,404 - INFO - Final Train Accuracy for Epoch 4: 97.60%
+2024-05-26 23:21:24,481 - INFO - test-average loss: 4.3179, Accuracy:2.855 
+
+2024-05-26 23:21:26,165 - INFO - Train Epoch: 5 Step: 0  Accuracy: 0.57%
+2024-05-26 23:25:05,754 - INFO - Train Epoch: 5 Step: 100  Accuracy: 57.54%
+2024-05-26 23:27:43,338 - INFO - Train Epoch: 5 Step: 172  Accuracy: 98.33%
+2024-05-26 23:27:43,345 - INFO - Final Train Accuracy for Epoch 5: 98.33%
+2024-05-26 23:32:51,453 - INFO - test-average loss: 1.8944, Accuracy:10.755 
+
