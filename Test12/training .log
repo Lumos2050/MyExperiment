@@ -1,0 +1,109 @@
+2024-05-29 22:43:55,923 - INFO - Train Epoch: 1 Step: 0  Accuracy: 0.03%
+2024-05-29 22:45:46,847 - INFO - Train Epoch: 1 Step: 100  Accuracy: 14.27%
+2024-05-29 22:47:34,217 - INFO - Train Epoch: 1 Step: 200  Accuracy: 32.70%
+2024-05-29 22:49:18,862 - INFO - Train Epoch: 1 Step: 300  Accuracy: 52.92%
+2024-05-29 22:50:31,062 - INFO - Train Epoch: 1 Step: 369  Accuracy: 67.76%
+2024-05-29 22:50:31,141 - INFO - Final Train Accuracy for Epoch 1: 67.76%
+2024-05-30 00:39:44,775 - INFO - test-average loss: 0.0637, Accuracy:30.826 
+
+2024-05-30 00:39:46,976 - INFO - Train Epoch: 2 Step: 0  Accuracy: 0.18%
+2024-05-30 00:41:35,643 - INFO - Train Epoch: 2 Step: 100  Accuracy: 21.74%
+2024-05-30 00:43:20,742 - INFO - Train Epoch: 2 Step: 200  Accuracy: 43.11%
+2024-05-30 00:45:08,265 - INFO - Train Epoch: 2 Step: 300  Accuracy: 65.10%
+2024-05-30 00:46:20,982 - INFO - Train Epoch: 2 Step: 369  Accuracy: 80.72%
+2024-05-30 00:46:21,137 - INFO - Final Train Accuracy for Epoch 2: 80.72%
+2024-05-30 02:44:55,044 - INFO - test-average loss: 0.0619, Accuracy:36.923 
+
+2024-05-30 02:44:57,325 - INFO - Train Epoch: 3 Step: 0  Accuracy: 0.18%
+2024-05-30 02:46:56,843 - INFO - Train Epoch: 3 Step: 100  Accuracy: 22.44%
+2024-05-30 02:48:50,609 - INFO - Train Epoch: 3 Step: 200  Accuracy: 44.67%
+2024-05-30 02:50:46,901 - INFO - Train Epoch: 3 Step: 300  Accuracy: 67.01%
+2024-05-30 02:52:05,473 - INFO - Train Epoch: 3 Step: 369  Accuracy: 82.86%
+2024-05-30 02:52:05,602 - INFO - Final Train Accuracy for Epoch 3: 82.86%
+2024-05-30 05:02:37,941 - INFO - test-average loss: 0.0646, Accuracy:27.235 
+
+2024-05-30 05:02:40,321 - INFO - Train Epoch: 4 Step: 0  Accuracy: 0.21%
+2024-05-30 05:04:33,242 - INFO - Train Epoch: 4 Step: 100  Accuracy: 22.81%
+2024-05-30 05:06:32,277 - INFO - Train Epoch: 4 Step: 200  Accuracy: 45.24%
+2024-05-30 05:08:25,961 - INFO - Train Epoch: 4 Step: 300  Accuracy: 68.11%
+2024-05-30 05:09:40,411 - INFO - Train Epoch: 4 Step: 369  Accuracy: 84.18%
+2024-05-30 05:09:40,551 - INFO - Final Train Accuracy for Epoch 4: 84.18%
+2024-05-30 07:12:07,528 - INFO - test-average loss: 0.0631, Accuracy:32.804 
+
+2024-05-30 07:12:10,053 - INFO - Train Epoch: 5 Step: 0  Accuracy: 0.22%
+2024-05-30 07:14:07,900 - INFO - Train Epoch: 5 Step: 100  Accuracy: 22.97%
+2024-05-30 07:16:04,035 - INFO - Train Epoch: 5 Step: 200  Accuracy: 45.97%
+2024-05-30 07:17:56,536 - INFO - Train Epoch: 5 Step: 300  Accuracy: 69.12%
+2024-05-30 07:19:09,929 - INFO - Train Epoch: 5 Step: 369  Accuracy: 85.33%
+2024-05-30 07:19:10,069 - INFO - Final Train Accuracy for Epoch 5: 85.33%
+2024-05-30 09:26:48,967 - INFO - test-average loss: 0.0625, Accuracy:35.044 
+
+2024-05-30 09:26:51,421 - INFO - Train Epoch: 6 Step: 0  Accuracy: 0.19%
+2024-05-30 09:28:39,534 - INFO - Train Epoch: 6 Step: 100  Accuracy: 23.33%
+2024-05-30 09:30:27,665 - INFO - Train Epoch: 6 Step: 200  Accuracy: 46.62%
+2024-05-30 09:32:14,297 - INFO - Train Epoch: 6 Step: 300  Accuracy: 69.78%
+2024-05-30 09:33:27,231 - INFO - Train Epoch: 6 Step: 369  Accuracy: 85.97%
+2024-05-30 09:33:27,342 - INFO - Final Train Accuracy for Epoch 6: 85.97%
+2024-05-30 11:30:58,189 - INFO - test-average loss: 0.0640, Accuracy:29.615 
+
+2024-05-30 11:31:00,854 - INFO - Train Epoch: 7 Step: 0  Accuracy: 0.22%
+2024-05-30 11:32:48,841 - INFO - Train Epoch: 7 Step: 100  Accuracy: 23.53%
+2024-05-30 11:34:38,932 - INFO - Train Epoch: 7 Step: 200  Accuracy: 46.87%
+2024-05-30 11:36:24,774 - INFO - Train Epoch: 7 Step: 300  Accuracy: 70.25%
+2024-05-30 11:37:38,642 - INFO - Train Epoch: 7 Step: 369  Accuracy: 86.72%
+2024-05-30 11:37:38,782 - INFO - Final Train Accuracy for Epoch 7: 86.72%
+
+if_cuda= True
+gpu_count= 1
+  0%|                                                                                                                                   | 0/370 [00:00<?, ?it/s]Train Epoch: 1    Step: 0        Train Accuracy: 0.03%
+ 14%|██████████▌                                                                | 52/370 [00:58<05:31,  1.04s/it, accuracy=6.16, epoch=1, loss=1.99, mode=train]/root/autodl-tmp/Test12（no_recons）/code/edge_sv.py:27: RuntimeWarning: invalid value encountered in divide
+  scaled_data = (normalized_channel_data - min_value) / (max_value - min_value)  # 缩放数据到 [0, 1] 范围内
+/root/autodl-tmp/Test12（no_recons）/code/edge_sv.py:68: RuntimeWarning: invalid value encountered in cast
+  single_image2 = (normalize_seg_edge[i, j]*255).astype(np.uint8)  # 将图像数据转换为8位无符号整数类型
+ 27%|████████████████████                                                      | 100/370 [01:52<05:31,  1.23s/it, accuracy=14.1, epoch=1, loss=1.87, mode=train]Train Epoch: 1    Step: 100      Train Accuracy: 14.27%
+ 54%|████████████████████████████████████████                                  | 200/370 [03:39<03:00,  1.06s/it, accuracy=32.5, epoch=1, loss=1.93, mode=train]Train Epoch: 1    Step: 200      Train Accuracy: 32.70%
+ 81%|████████████████████████████████████████████████████████████              | 300/370 [05:24<01:12,  1.04s/it, accuracy=52.7, epoch=1, loss=1.83, mode=train]Train Epoch: 1    Step: 300      Train Accuracy: 52.92%
+100%|█████████████████████████████████████████████████████████████████████████▊| 369/370 [06:36<00:01,  1.05s/it, accuracy=67.5, epoch=1, loss=1.74, mode=train]Train Epoch: 1    Step: 369      Train Accuracy: 67.76%
+100%|██████████████████████████████████████████████████████████████████████████| 370/370 [06:37<00:00,  1.08s/it, accuracy=67.8, epoch=1, loss=1.77, mode=train]
+Train Accuracy: 67.76%
+100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 7829/7829 [1:49:13<00:00,  1.19it/s]
+test-average loss: 0.0637, Accuracy:30.826 
+
+  0%|                                                                                                                                                                                                                   | 0/370 [00:00<?, ?it/s]Train Epoch: 2    Step: 0        Train Accuracy: 0.18%
+ 27%|█████████████████████████████████████████▌                                                                                                                | 100/370 [01:49<04:43,  1.05s/it, accuracy=21.5, epoch=2, loss=1.78, mode=train]Train Epoch: 2    Step: 100      Train Accuracy: 21.74%
+ 54%|███████████████████████████████████████████████████████████████████████████████████▏                                                                      | 200/370 [03:34<02:55,  1.03s/it, accuracy=42.9, epoch=2, loss=1.82, mode=train]Train Epoch: 2    Step: 200      Train Accuracy: 43.11%
+ 81%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▊                             | 300/370 [05:22<01:14,  1.07s/it, accuracy=64.9, epoch=2, loss=1.78, mode=train]Train Epoch: 2    Step: 300      Train Accuracy: 65.10%
+100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▌| 369/370 [06:35<00:01,  1.04s/it, accuracy=80.5, epoch=2, loss=1.83, mode=train]Train Epoch: 2    Step: 369      Train Accuracy: 80.72%
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 370/370 [06:36<00:00,  1.07s/it, accuracy=80.7, epoch=2, loss=1.82, mode=train]
+Train Accuracy: 80.72%
+100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 7829/7829 [1:58:33<00:00,  1.10it/s]
+test-average loss: 0.0619, Accuracy:36.923 
+
+  0%|                                                                                                                                                                                                                   | 0/370 [00:00<?, ?it/s]Train Epoch: 3    Step: 0        Train Accuracy: 0.18%
+ 27%|█████████████████████████████████████████▌                                                                                                                | 100/370 [02:00<04:56,  1.10s/it, accuracy=22.2, epoch=3, loss=1.76, mode=train]Train Epoch: 3    Step: 100      Train Accuracy: 22.44%
+ 54%|███████████████████████████████████████████████████████████████████████████████████▏                                                                      | 200/370 [03:54<03:02,  1.07s/it, accuracy=44.5, epoch=3, loss=1.77, mode=train]Train Epoch: 3    Step: 200      Train Accuracy: 44.67%
+ 81%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▊                             | 300/370 [05:50<01:22,  1.18s/it, accuracy=66.8, epoch=3, loss=1.76, mode=train]Train Epoch: 3    Step: 300      Train Accuracy: 67.01%
+100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▌| 369/370 [07:09<00:01,  1.11s/it, accuracy=82.7, epoch=3, loss=1.71, mode=train]Train Epoch: 3    Step: 369      Train Accuracy: 82.86%
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 370/370 [07:10<00:00,  1.16s/it, accuracy=82.9, epoch=3, loss=1.78, mode=train]
+Train Accuracy: 82.86%
+100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 7829/7829 [2:10:32<00:00,  1.00s/it]
+test-average loss: 0.0646, Accuracy:27.235 
+
+  0%|                                                                                                                                                                                                                   | 0/370 [00:00<?, ?it/s]Train Epoch: 4    Step: 0        Train Accuracy: 0.21%
+ 27%|█████████████████████████████████████████▌                                                                                                                | 100/370 [01:53<05:58,  1.33s/it, accuracy=22.6, epoch=4, loss=1.77, mode=train]Train Epoch: 4    Step: 100      Train Accuracy: 22.81%
+ 54%|████████████████████████████████████████████████████████████████████████████████████▊                                                                        | 200/370 [03:52<04:22,  1.55s/it, accuracy=45, epoch=4, loss=1.7, mode=train]Train Epoch: 4    Step: 200      Train Accuracy: 45.24%
+ 81%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▋                             | 300/370 [05:46<01:14,  1.06s/it, accuracy=67.9, epoch=4, loss=1.8, mode=train]Train Epoch: 4    Step: 300      Train Accuracy: 68.11%
+100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▌| 369/370 [07:01<00:01,  1.06s/it, accuracy=84, epoch=4, loss=1.71, mode=train]Train Epoch: 4    Step: 369      Train Accuracy: 84.18%
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 370/370 [07:02<00:00,  1.14s/it, accuracy=84.2, epoch=4, loss=1.72, mode=train]
+Train Accuracy: 84.18%
+100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 7829/7829 [2:02:26<00:00,  1.07it/s]
+test-average loss: 0.0631, Accuracy:32.804 
+
+  0%|                                                                                                                                                                                                                   | 0/370 [00:00<?, ?it/s]Train Epoch: 5    Step: 0        Train Accuracy: 0.22%
+ 27%|█████████████████████████████████████████▌                                                                                                                | 100/370 [01:58<04:45,  1.06s/it, accuracy=22.7, epoch=5, loss=1.73, mode=train]Train Epoch: 5    Step: 100      Train Accuracy: 22.97%
+ 54%|███████████████████████████████████████████████████████████████████████████████████▊                                                                       | 200/370 [03:55<03:12,  1.13s/it, accuracy=45.7, epoch=5, loss=1.7, mode=train]Train Epoch: 5    Step: 200      Train Accuracy: 45.97%
+ 81%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▊                             | 300/370 [05:47<01:14,  1.06s/it, accuracy=68.9, epoch=5, loss=1.76, mode=train]Train Epoch: 5    Step: 300      Train Accuracy: 69.12%
+100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▌| 369/370 [07:01<00:01,  1.05s/it, accuracy=85.1, epoch=5, loss=1.68, mode=train]Train Epoch: 5    Step: 369      Train Accuracy: 85.33%
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 370/370 [07:02<00:00,  1.14s/it, accuracy=85.3, epoch=5, loss=1.74, mode=train]
+Train Accuracy: 85.33%
+ 31%|█████████████████████████████████████████████████████████████                                                                                                                                        | 2429/7829 [36:16<1:24:15,  1.07it/s] 31%|█████████████████████████████████████████████████████████████               
