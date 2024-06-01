@@ -1,0 +1,20 @@
+test-average loss: 0.0567, Accuracy:55.658 
+
+test-average loss: 0.0552, Accuracy:61.057 
+
+test-average loss: 0.0569, Accuracy:54.842 
+
+test-average loss: 0.0554, Accuracy:60.112 
+
+test-average loss: 0.0570, Accuracy:54.545 
+
+test-average loss: 0.0574, Accuracy:53.200 
+
+test-average loss: 0.0578, Accuracy:51.861 
+
+test-average loss: 0.0550, Accuracy:61.494 
+
+test-average loss: 0.0547, Accuracy:62.847 
+
+test-average loss: 0.0554, Accuracy:60.237 
+
