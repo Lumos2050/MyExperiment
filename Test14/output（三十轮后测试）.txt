@@ -1,0 +1,2 @@
+test-average loss: 0.0560, Accuracy:58.128 
+
