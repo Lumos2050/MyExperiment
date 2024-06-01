@@ -1,0 +1,219 @@
+  0%|                     | 0/519 [00:01<?, ?it/s, accuracy=0.00772, epoch=1, loss=tensor(3.6780, device='cuda:0', grad_fn=<AddBackward0>), mode=train]Train Epoch: 1   Loss : 3.678003         step: 0         Train Accuracy: 0.007715 
+ 19%|██▋           | 100/519 [01:23<05:45,  1.21it/s, accuracy=2.29, epoch=1, loss=tensor(3.5497, device='cuda:0', grad_fn=<AddBackward0>), mode=train]Train Epoch: 1   Loss : 3.549744         step: 100       Train Accuracy: 2.291490 
+ 39%|█████▍        | 200/519 [02:46<04:23,  1.21it/s, accuracy=5.22, epoch=1, loss=tensor(3.8646, device='cuda:0', grad_fn=<AddBackward0>), mode=train]Train Epoch: 1   Loss : 3.864570         step: 200       Train Accuracy: 5.223362 
+ 58%|████████      | 300/519 [04:09<03:01,  1.21it/s, accuracy=8.46, epoch=1, loss=tensor(3.5409, device='cuda:0', grad_fn=<AddBackward0>), mode=train]Train Epoch: 1   Loss : 3.540874         step: 300       Train Accuracy: 8.456138 
+ 77%|██████████▊   | 400/519 [05:31<01:38,  1.21it/s, accuracy=11.4, epoch=1, loss=tensor(3.5457, device='cuda:0', grad_fn=<AddBackward0>), mode=train]Train Epoch: 1   Loss : 3.545716         step: 400       Train Accuracy: 11.449734 
+ 96%|█████████████▍| 500/519 [06:54<00:15,  1.21it/s, accuracy=14.7, epoch=1, loss=tensor(3.5793, device='cuda:0', grad_fn=<AddBackward0>), mode=train]Train Epoch: 1   Loss : 3.579284         step: 500       Train Accuracy: 14.690225 
+100%|██████████████| 519/519 [07:09<00:00,  1.21it/s, accuracy=15.2, epoch=1, loss=tensor(3.2619, device='cuda:0', grad_fn=<AddBackward0>), mode=train]
+Train Accuracy: 15.207160
+100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 548/548 [02:03<00:00,  4.44it/s]
+test-average loss: 0.0927, Accuracy:18.341 
+
+  0%|                       | 0/519 [00:00<?, ?it/s, accuracy=0.054, epoch=2, loss=tensor(3.8484, device='cuda:0', grad_fn=<AddBackward0>), mode=train]Train Epoch: 2   Loss : 3.848414         step: 0         Train Accuracy: 0.054008 
+ 19%|██▋           | 100/519 [01:23<05:45,  1.21it/s, accuracy=3.26, epoch=2, loss=tensor(3.4776, device='cuda:0', grad_fn=<AddBackward0>), mode=train]Train Epoch: 2   Loss : 3.477573         step: 100       Train Accuracy: 3.263637 
+ 39%|█████▍        | 200/519 [02:45<04:23,  1.21it/s, accuracy=6.38, epoch=2, loss=tensor(3.5640, device='cuda:0', grad_fn=<AddBackward0>), mode=train]Train Epoch: 2   Loss : 3.563990         step: 200       Train Accuracy: 6.380681 
+ 58%|████████▋      | 300/519 [04:08<03:00,  1.21it/s, accuracy=9.8, epoch=2, loss=tensor(3.5075, device='cuda:0', grad_fn=<AddBackward0>), mode=train]Train Epoch: 2   Loss : 3.507545         step: 300       Train Accuracy: 9.798627 
+ 77%|██████████▊   | 400/519 [05:30<01:38,  1.21it/s, accuracy=12.9, epoch=2, loss=tensor(3.4740, device='cuda:0', grad_fn=<AddBackward0>), mode=train]Train Epoch: 2   Loss : 3.473956         step: 400       Train Accuracy: 12.946532 
+ 96%|█████████████▍| 500/519 [06:53<00:15,  1.21it/s, accuracy=16.3, epoch=2, loss=tensor(3.5578, device='cuda:0', grad_fn=<AddBackward0>), mode=train]Train Epoch: 2   Loss : 3.557828         step: 500       Train Accuracy: 16.287324 
+100%|██████████████| 519/519 [07:08<00:00,  1.21it/s, accuracy=16.8, epoch=2, loss=tensor(2.9726, device='cuda:0', grad_fn=<AddBackward0>), mode=train]
+Train Accuracy: 16.811974
+100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 548/548 [02:02<00:00,  4.46it/s]
+test-average loss: 0.0918, Accuracy:18.341 
+
+  0%|                       | 0/519 [00:00<?, ?it/s, accuracy=0.054, epoch=3, loss=tensor(3.4496, device='cuda:0', grad_fn=<AddBackward0>), mode=train]Train Epoch: 3   Loss : 3.449626         step: 0         Train Accuracy: 0.054008 
+ 19%|██▋           | 100/519 [01:23<05:45,  1.21it/s, accuracy=3.15, epoch=3, loss=tensor(3.4733, device='cuda:0', grad_fn=<AddBackward0>), mode=train]Train Epoch: 3   Loss : 3.473326         step: 100       Train Accuracy: 3.147905 
+ 39%|█████▍        | 200/519 [02:45<04:22,  1.22it/s, accuracy=6.32, epoch=3, loss=tensor(3.5846, device='cuda:0', grad_fn=<AddBackward0>), mode=train]Train Epoch: 3   Loss : 3.584603         step: 200       Train Accuracy: 6.318957 
+ 58%|████████      | 300/519 [04:07<03:00,  1.21it/s, accuracy=9.74, epoch=3, loss=tensor(3.4935, device='cuda:0', grad_fn=<AddBackward0>), mode=train]Train Epoch: 3   Loss : 3.493472         step: 300       Train Accuracy: 9.736903 
+ 77%|██████████▊   | 400/519 [05:30<01:37,  1.22it/s, accuracy=12.7, epoch=3, loss=tensor(3.4759, device='cuda:0', grad_fn=<AddBackward0>), mode=train]Train Epoch: 3   Loss : 3.475853         step: 400       Train Accuracy: 12.730499 
+ 96%|███████████████▍| 500/519 [06:52<00:15,  1.21it/s, accuracy=16, epoch=3, loss=tensor(3.5549, device='cuda:0', grad_fn=<AddBackward0>), mode=train]Train Epoch: 3   Loss : 3.554875         step: 500       Train Accuracy: 15.994136 
+100%|██████████████| 519/519 [07:07<00:00,  1.21it/s, accuracy=16.5, epoch=3, loss=tensor(2.9679, device='cuda:0', grad_fn=<AddBackward0>), mode=train]
+Train Accuracy: 16.511072
+100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 548/548 [02:03<00:00,  4.45it/s]
+test-average loss: 0.0920, Accuracy:18.341 
+
+  0%|                       | 0/519 [00:00<?, ?it/s, accuracy=0.054, epoch=4, loss=tensor(3.4453, device='cuda:0', grad_fn=<AddBackward0>), mode=train]Train Epoch: 4   Loss : 3.445308         step: 0         Train Accuracy: 0.054008 
+ 19%|██▋           | 100/519 [01:24<05:47,  1.20it/s, accuracy=3.15, epoch=4, loss=tensor(3.4982, device='cuda:0', grad_fn=<AddBackward0>), mode=train]Train Epoch: 4   Loss : 3.498182         step: 100       Train Accuracy: 3.147905 
+ 39%|█████▍        | 200/519 [02:46<04:23,  1.21it/s, accuracy=6.37, epoch=4, loss=tensor(3.5933, device='cuda:0', grad_fn=<AddBackward0>), mode=train]Train Epoch: 4   Loss : 3.593318         step: 200       Train Accuracy: 6.365250 
+ 58%|████████      | 300/519 [04:08<03:00,  1.21it/s, accuracy=9.77, epoch=4, loss=tensor(3.4981, device='cuda:0', grad_fn=<AddBackward0>), mode=train]Train Epoch: 4   Loss : 3.498073         step: 300       Train Accuracy: 9.767765 
+ 77%|██████████▊   | 400/519 [05:31<01:38,  1.21it/s, accuracy=12.8, epoch=4, loss=tensor(3.4692, device='cuda:0', grad_fn=<AddBackward0>), mode=train]Train Epoch: 4   Loss : 3.469187         step: 400       Train Accuracy: 12.784507 
+ 96%|█████████████▍| 500/519 [06:53<00:15,  1.21it/s, accuracy=16.1, epoch=4, loss=tensor(3.5275, device='cuda:0', grad_fn=<AddBackward0>), mode=train]Train Epoch: 4   Loss : 3.527544         step: 500       Train Accuracy: 16.063575 
+100%|██████████████| 519/519 [07:08<00:00,  1.21it/s, accuracy=16.6, epoch=4, loss=tensor(2.9451, device='cuda:0', grad_fn=<AddBackward0>), mode=train]
+Train Accuracy: 16.588226
+100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 548/548 [02:03<00:00,  4.45it/s]
+test-average loss: 0.0915, Accuracy:18.341 
+
+  0%|                       | 0/519 [00:00<?, ?it/s, accuracy=0.054, epoch=5, loss=tensor(3.4335, device='cuda:0', grad_fn=<AddBackward0>), mode=train]Train Epoch: 5   Loss : 3.433495         step: 0         Train Accuracy: 0.054008 
+ 19%|██▋           | 100/519 [01:23<05:45,  1.21it/s, accuracy=3.13, epoch=5, loss=tensor(3.4890, device='cuda:0', grad_fn=<AddBackward0>), mode=train]Train Epoch: 5   Loss : 3.489021         step: 100       Train Accuracy: 3.132474 
+ 39%|█████▍        | 200/519 [02:45<04:23,  1.21it/s, accuracy=6.36, epoch=5, loss=tensor(3.5828, device='cuda:0', grad_fn=<AddBackward0>), mode=train]Train Epoch: 5   Loss : 3.582767         step: 200       Train Accuracy: 6.357534 
+ 58%|████████      | 300/519 [04:07<03:00,  1.21it/s, accuracy=9.61, epoch=5, loss=tensor(2.9285, device='cuda:0', grad_fn=<AddBackward0>), mode=train]Train Epoch: 5   Loss : 2.928526         step: 300       Train Accuracy: 9.605740 
+ 77%|██████████▊   | 400/519 [05:30<01:37,  1.22it/s, accuracy=12.9, epoch=5, loss=tensor(3.4208, device='cuda:0', grad_fn=<AddBackward0>), mode=train]Train Epoch: 5   Loss : 3.420789         step: 400       Train Accuracy: 12.877093 
+ 96%|█████████████▍| 500/519 [06:52<00:15,  1.21it/s, accuracy=16.4, epoch=5, loss=tensor(3.1325, device='cuda:0', grad_fn=<AddBackward0>), mode=train]Train Epoch: 5   Loss : 3.132475         step: 500       Train Accuracy: 16.387624 
+100%|████████████████| 519/519 [07:07<00:00,  1.21it/s, accuracy=17, epoch=5, loss=tensor(2.6852, device='cuda:0', grad_fn=<AddBackward0>), mode=train]
+Train Accuracy: 16.958568
+100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 548/548 [02:02<00:00,  4.48it/s]
+test-average loss: 0.9688, Accuracy:4.008 
+
+  0%|                      | 0/519 [00:00<?, ?it/s, accuracy=0.0309, epoch=6, loss=tensor(3.1080, device='cuda:0', grad_fn=<AddBackward0>), mode=train]Train Epoch: 6   Loss : 3.107994         step: 0         Train Accuracy: 0.030862 
+ 19%|██▋           | 100/519 [01:22<05:44,  1.21it/s, accuracy=2.84, epoch=6, loss=tensor(3.4035, device='cuda:0', grad_fn=<AddBackward0>), mode=train]Train Epoch: 6   Loss : 3.403533         step: 100       Train Accuracy: 2.839287 
+ 39%|█████▍        | 200/519 [02:45<04:22,  1.21it/s, accuracy=6.59, epoch=6, loss=tensor(3.4691, device='cuda:0', grad_fn=<AddBackward0>), mode=train]Train Epoch: 6   Loss : 3.469055         step: 200       Train Accuracy: 6.588998 
+ 58%|████████      | 300/519 [04:07<02:59,  1.22it/s, accuracy=10.5, epoch=6, loss=tensor(3.3930, device='cuda:0', grad_fn=<AddBackward0>), mode=train]Train Epoch: 6   Loss : 3.392965         step: 300       Train Accuracy: 10.469871 
+ 77%|██████████▊   | 400/519 [05:29<01:37,  1.22it/s, accuracy=14.5, epoch=6, loss=tensor(3.3884, device='cuda:0', grad_fn=<AddBackward0>), mode=train]Train Epoch: 6   Loss : 3.388382         step: 400       Train Accuracy: 14.458761 
+ 96%|█████████████▍| 500/519 [06:51<00:15,  1.22it/s, accuracy=19.2, epoch=6, loss=tensor(3.3684, device='cuda:0', grad_fn=<AddBackward0>), mode=train]Train Epoch: 6   Loss : 3.368390         step: 500       Train Accuracy: 19.226912 
+100%|████████████████| 519/519 [07:06<00:00,  1.22it/s, accuracy=20, epoch=6, loss=tensor(2.8511, device='cuda:0', grad_fn=<AddBackward0>), mode=train]
+Train Accuracy: 19.959880
+100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 548/548 [02:02<00:00,  4.49it/s]
+test-average loss: 0.1991, Accuracy:14.026 
+
+  0%|                      | 0/519 [00:00<?, ?it/s, accuracy=0.0463, epoch=7, loss=tensor(3.3816, device='cuda:0', grad_fn=<AddBackward0>), mode=train]Train Epoch: 7   Loss : 3.381583         step: 0         Train Accuracy: 0.046293 
+ 19%|██▋           | 100/519 [01:22<05:44,  1.22it/s, accuracy=5.52, epoch=7, loss=tensor(2.9239, device='cuda:0', grad_fn=<AddBackward0>), mode=train]Train Epoch: 7   Loss : 2.923949         step: 100       Train Accuracy: 5.516550 
+ 39%|█████▍        | 200/519 [02:45<04:22,  1.21it/s, accuracy=11.7, epoch=7, loss=tensor(2.8869, device='cuda:0', grad_fn=<AddBackward0>), mode=train]Train Epoch: 7   Loss : 2.886874         step: 200       Train Accuracy: 11.712059 
+ 58%|████████      | 300/519 [04:07<03:00,  1.21it/s, accuracy=18.5, epoch=7, loss=tensor(3.0224, device='cuda:0', grad_fn=<AddBackward0>), mode=train]Train Epoch: 7   Loss : 3.022387         step: 300       Train Accuracy: 18.509374 
+ 77%|██████████▊   | 400/519 [05:29<01:38,  1.21it/s, accuracy=26.1, epoch=7, loss=tensor(2.3185, device='cuda:0', grad_fn=<AddBackward0>), mode=train]Train Epoch: 7   Loss : 2.318458         step: 400       Train Accuracy: 26.078235 
+ 96%|█████████████▍| 500/519 [06:52<00:15,  1.21it/s, accuracy=35.3, epoch=7, loss=tensor(2.7751, device='cuda:0', grad_fn=<AddBackward0>), mode=train]Train Epoch: 7   Loss : 2.775146         step: 500       Train Accuracy: 35.267340 
+100%|██████████████| 519/519 [07:06<00:00,  1.22it/s, accuracy=36.9, epoch=7, loss=tensor(2.4446, device='cuda:0', grad_fn=<AddBackward0>), mode=train]
+Train Accuracy: 36.895301
+100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 548/548 [02:02<00:00,  4.47it/s]
+test-average loss: 0.9740, Accuracy:15.954 
+
+  0%|                         | 0/519 [00:00<?, ?it/s, accuracy=0.1, epoch=8, loss=tensor(2.5246, device='cuda:0', grad_fn=<AddBackward0>), mode=train]Train Epoch: 8   Loss : 2.524594         step: 0         Train Accuracy: 0.100301 
+ 19%|██▋           | 100/519 [01:22<05:45,  1.21it/s, accuracy=10.4, epoch=8, loss=tensor(2.3749, device='cuda:0', grad_fn=<AddBackward0>), mode=train]Train Epoch: 8   Loss : 2.374869         step: 100       Train Accuracy: 10.423578 
+ 39%|█████▍        | 200/519 [02:45<04:22,  1.22it/s, accuracy=20.2, epoch=8, loss=tensor(1.7820, device='cuda:0', grad_fn=<AddBackward0>), mode=train]Train Epoch: 8   Loss : 1.781992         step: 200       Train Accuracy: 20.175912 
+ 58%|████████      | 300/519 [04:07<03:00,  1.22it/s, accuracy=32.5, epoch=8, loss=tensor(1.6347, device='cuda:0', grad_fn=<AddBackward0>), mode=train]Train Epoch: 8   Loss : 1.634740         step: 300       Train Accuracy: 32.520639 
+ 77%|██████████▊   | 400/519 [05:30<01:38,  1.21it/s, accuracy=45.8, epoch=8, loss=tensor(1.5679, device='cuda:0', grad_fn=<AddBackward0>), mode=train]Train Epoch: 8   Loss : 1.567921         step: 400       Train Accuracy: 45.783504 
+ 96%|█████████████▍| 500/519 [06:52<00:15,  1.21it/s, accuracy=60.3, epoch=8, loss=tensor(1.4926, device='cuda:0', grad_fn=<AddBackward0>), mode=train]Train Epoch: 8   Loss : 1.492555         step: 500       Train Accuracy: 60.327135 
+100%|██████████████| 519/519 [07:07<00:00,  1.22it/s, accuracy=62.9, epoch=8, loss=tensor(1.6821, device='cuda:0', grad_fn=<AddBackward0>), mode=train]
+Train Accuracy: 62.865520
+100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 548/548 [02:02<00:00,  4.48it/s]
+test-average loss: 0.1649, Accuracy:20.028 
+
+  0%|                       | 0/519 [00:00<?, ?it/s, accuracy=0.123, epoch=9, loss=tensor(1.5564, device='cuda:0', grad_fn=<AddBackward0>), mode=train]Train Epoch: 9   Loss : 1.556369         step: 0         Train Accuracy: 0.123447 
+ 19%|██▋           | 100/519 [01:22<05:44,  1.22it/s, accuracy=15.7, epoch=9, loss=tensor(1.7256, device='cuda:0', grad_fn=<AddBackward0>), mode=train]Train Epoch: 9   Loss : 1.725599         step: 100       Train Accuracy: 15.731811 
+ 39%|██████▏         | 200/519 [02:45<04:23,  1.21it/s, accuracy=32, epoch=9, loss=tensor(1.8013, device='cuda:0', grad_fn=<AddBackward0>), mode=train]Train Epoch: 9   Loss : 1.801341         step: 200       Train Accuracy: 32.042281 
+ 58%|████████      | 300/519 [04:07<03:00,  1.22it/s, accuracy=48.3, epoch=9, loss=tensor(1.7646, device='cuda:0', grad_fn=<AddBackward0>), mode=train]Train Epoch: 9   Loss : 1.764591         step: 300       Train Accuracy: 48.275596 
+ 77%|████████████▎   | 400/519 [05:30<01:38,  1.21it/s, accuracy=65, epoch=9, loss=tensor(1.0856, device='cuda:0', grad_fn=<AddBackward0>), mode=train]Train Epoch: 9   Loss : 1.085621         step: 400       Train Accuracy: 65.002700 
+ 96%|█████████████▍| 500/519 [06:52<00:15,  1.22it/s, accuracy=82.6, epoch=9, loss=tensor(1.6001, device='cuda:0', grad_fn=<AddBackward0>), mode=train]Train Epoch: 9   Loss : 1.600089         step: 500       Train Accuracy: 82.563074 
+100%|██████████████| 519/519 [07:07<00:00,  1.22it/s, accuracy=85.6, epoch=9, loss=tensor(1.1328, device='cuda:0', grad_fn=<AddBackward0>), mode=train]
+Train Accuracy: 85.595247
+100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 548/548 [02:02<00:00,  4.46it/s]
+test-average loss: 0.1755, Accuracy:20.232 
+
+  0%|                      | 0/519 [00:00<?, ?it/s, accuracy=0.154, epoch=10, loss=tensor(1.7958, device='cuda:0', grad_fn=<AddBackward0>), mode=train]Train Epoch: 10          Loss : 1.795832         step: 0         Train Accuracy: 0.154309 
+ 19%|██▌          | 100/519 [01:23<05:44,  1.22it/s, accuracy=17.8, epoch=10, loss=tensor(1.4875, device='cuda:0', grad_fn=<AddBackward0>), mode=train]Train Epoch: 10          Loss : 1.487486         step: 100       Train Accuracy: 17.807268 
+ 39%|█████        | 200/519 [02:45<04:25,  1.20it/s, accuracy=35.8, epoch=10, loss=tensor(1.5108, device='cuda:0', grad_fn=<AddBackward0>), mode=train]Train Epoch: 10          Loss : 1.510779         step: 200       Train Accuracy: 35.815138 
+ 58%|███████▌     | 300/519 [04:08<03:00,  1.21it/s, accuracy=54.2, epoch=10, loss=tensor(1.4621, device='cuda:0', grad_fn=<AddBackward0>), mode=train]Train Epoch: 10          Loss : 1.462148         step: 300       Train Accuracy: 54.170203 
+ 77%|██████████   | 400/519 [05:30<01:38,  1.21it/s, accuracy=72.5, epoch=10, loss=tensor(1.3079, device='cuda:0', grad_fn=<AddBackward0>), mode=train]Train Epoch: 10          Loss : 1.307879         step: 400       Train Accuracy: 72.525268 
+ 96%|████████████▌| 500/519 [06:53<00:15,  1.21it/s, accuracy=91.3, epoch=10, loss=tensor(1.4158, device='cuda:0', grad_fn=<AddBackward0>), mode=train]Train Epoch: 10          Loss : 1.415798         step: 500       Train Accuracy: 91.250675 
+100%|█████████████| 519/519 [07:07<00:00,  1.21it/s, accuracy=94.4, epoch=10, loss=tensor(1.0176, device='cuda:0', grad_fn=<AddBackward0>), mode=train]
+Train Accuracy: 94.444873
+100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 548/548 [02:03<00:00,  4.44it/s]
+test-average loss: 0.1951, Accuracy:17.509 
+
+  0%|                      | 0/519 [00:00<?, ?it/s, accuracy=0.177, epoch=11, loss=tensor(1.5036, device='cuda:0', grad_fn=<AddBackward0>), mode=train]Train Epoch: 11          Loss : 1.503567         step: 0         Train Accuracy: 0.177455 
+ 19%|██▌          | 100/519 [01:23<05:45,  1.21it/s, accuracy=18.4, epoch=11, loss=tensor(1.3347, device='cuda:0', grad_fn=<AddBackward0>), mode=train]Train Epoch: 11          Loss : 1.334684         step: 100       Train Accuracy: 18.424504 
+ 39%|█████        | 200/519 [02:45<04:23,  1.21it/s, accuracy=37.2, epoch=11, loss=tensor(1.3353, device='cuda:0', grad_fn=<AddBackward0>), mode=train]Train Epoch: 11          Loss : 1.335314         step: 200       Train Accuracy: 37.196204 
+ 58%|████████▋      | 300/519 [04:08<03:00,  1.21it/s, accuracy=56, epoch=11, loss=tensor(1.3382, device='cuda:0', grad_fn=<AddBackward0>), mode=train]Train Epoch: 11          Loss : 1.338156         step: 300       Train Accuracy: 56.006481 
+ 77%|██████████   | 400/519 [05:30<01:38,  1.21it/s, accuracy=74.4, epoch=11, loss=tensor(1.2517, device='cuda:0', grad_fn=<AddBackward0>), mode=train]Train Epoch: 11          Loss : 1.251653         step: 400       Train Accuracy: 74.438701 
+ 96%|████████████▌| 500/519 [06:53<00:15,  1.21it/s, accuracy=93.2, epoch=11, loss=tensor(1.3321, device='cuda:0', grad_fn=<AddBackward0>), mode=train]Train Epoch: 11          Loss : 1.332131         step: 500       Train Accuracy: 93.194970 
+100%|█████████████| 519/519 [07:07<00:00,  1.21it/s, accuracy=96.5, epoch=11, loss=tensor(0.6323, device='cuda:0', grad_fn=<AddBackward0>), mode=train]
+Train Accuracy: 96.489468
+100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 548/548 [02:03<00:00,  4.45it/s]
+test-average loss: 0.1385, Accuracy:24.657 
+
+  0%|                      | 0/519 [00:00<?, ?it/s, accuracy=0.193, epoch=12, loss=tensor(1.3045, device='cuda:0', grad_fn=<AddBackward0>), mode=train]Train Epoch: 12          Loss : 1.304451         step: 0         Train Accuracy: 0.192886 
+ 19%|██▉            | 100/519 [01:23<05:45,  1.21it/s, accuracy=19, epoch=12, loss=tensor(1.2703, device='cuda:0', grad_fn=<AddBackward0>), mode=train]Train Epoch: 12          Loss : 1.270270         step: 100       Train Accuracy: 18.956871 
+ 39%|█████        | 200/519 [02:45<04:23,  1.21it/s, accuracy=37.7, epoch=12, loss=tensor(1.3191, device='cuda:0', grad_fn=<AddBackward0>), mode=train]Train Epoch: 12          Loss : 1.319099         step: 200       Train Accuracy: 37.674562 
+ 58%|███████▌     | 300/519 [04:07<03:00,  1.21it/s, accuracy=55.6, epoch=12, loss=tensor(1.4715, device='cuda:0', grad_fn=<AddBackward0>), mode=train]Train Epoch: 12          Loss : 1.471465         step: 300       Train Accuracy: 55.605277 
+ 77%|███████████▌   | 400/519 [05:30<01:37,  1.22it/s, accuracy=74, epoch=12, loss=tensor(1.2299, device='cuda:0', grad_fn=<AddBackward0>), mode=train]Train Epoch: 12          Loss : 1.229873         step: 400       Train Accuracy: 73.975773 
+ 96%|████████████▌| 500/519 [06:52<00:15,  1.21it/s, accuracy=93.1, epoch=12, loss=tensor(1.2280, device='cuda:0', grad_fn=<AddBackward0>), mode=train]Train Epoch: 12          Loss : 1.228029         step: 500       Train Accuracy: 93.079238 
+100%|█████████████| 519/519 [07:07<00:00,  1.21it/s, accuracy=96.2, epoch=12, loss=tensor(0.9808, device='cuda:0', grad_fn=<AddBackward0>), mode=train]
+Train Accuracy: 96.203997
+100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 548/548 [02:03<00:00,  4.45it/s]
+test-average loss: 0.2648, Accuracy:19.385 
+
+  0%|                      | 0/519 [00:00<?, ?it/s, accuracy=0.185, epoch=13, loss=tensor(1.4173, device='cuda:0', grad_fn=<AddBackward0>), mode=train]Train Epoch: 13          Loss : 1.417294         step: 0         Train Accuracy: 0.185171 
+ 19%|██▌          | 100/519 [01:23<05:45,  1.21it/s, accuracy=18.9, epoch=13, loss=tensor(1.1979, device='cuda:0', grad_fn=<AddBackward0>), mode=train]Train Epoch: 13          Loss : 1.197945         step: 100       Train Accuracy: 18.902862 
+ 39%|█████        | 200/519 [02:45<04:22,  1.21it/s, accuracy=37.8, epoch=13, loss=tensor(1.2670, device='cuda:0', grad_fn=<AddBackward0>), mode=train]Train Epoch: 13          Loss : 1.267012         step: 200       Train Accuracy: 37.844302 
+ 58%|███████▌     | 300/519 [04:08<03:00,  1.21it/s, accuracy=56.7, epoch=13, loss=tensor(1.2553, device='cuda:0', grad_fn=<AddBackward0>), mode=train]Train Epoch: 13          Loss : 1.255267         step: 300       Train Accuracy: 56.747165 
+ 77%|██████████   | 400/519 [05:30<01:38,  1.21it/s, accuracy=75.8, epoch=13, loss=tensor(1.2046, device='cuda:0', grad_fn=<AddBackward0>), mode=train]Train Epoch: 13          Loss : 1.204590         step: 400       Train Accuracy: 75.773474 
+ 96%|████████████▌| 500/519 [06:52<00:15,  1.21it/s, accuracy=94.9, epoch=13, loss=tensor(1.2462, device='cuda:0', grad_fn=<AddBackward0>), mode=train]Train Epoch: 13          Loss : 1.246153         step: 500       Train Accuracy: 94.923231 
+100%|█████████████| 519/519 [07:07<00:00,  1.21it/s, accuracy=98.2, epoch=13, loss=tensor(0.5890, device='cuda:0', grad_fn=<AddBackward0>), mode=train]
+Train Accuracy: 98.202299
+100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 548/548 [02:03<00:00,  4.45it/s]
+test-average loss: 0.2747, Accuracy:14.471 
+
+  0%|                      | 0/519 [00:00<?, ?it/s, accuracy=0.177, epoch=14, loss=tensor(1.3726, device='cuda:0', grad_fn=<AddBackward0>), mode=train]Train Epoch: 14          Loss : 1.372631         step: 0         Train Accuracy: 0.177455 
+ 19%|██▌          | 100/519 [01:23<05:45,  1.21it/s, accuracy=18.8, epoch=14, loss=tensor(1.1989, device='cuda:0', grad_fn=<AddBackward0>), mode=train]Train Epoch: 14          Loss : 1.198877         step: 100       Train Accuracy: 18.794846 
+ 39%|█████        | 200/519 [02:46<04:25,  1.20it/s, accuracy=37.8, epoch=14, loss=tensor(1.2605, device='cuda:0', grad_fn=<AddBackward0>), mode=train]Train Epoch: 14          Loss : 1.260499         step: 200       Train Accuracy: 37.759432 
+ 58%|███████▌     | 300/519 [04:08<03:00,  1.21it/s, accuracy=55.9, epoch=14, loss=tensor(1.2922, device='cuda:0', grad_fn=<AddBackward0>), mode=train]Train Epoch: 14          Loss : 1.292181         step: 300       Train Accuracy: 55.921611 
+ 77%|██████████   | 400/519 [05:31<01:37,  1.22it/s, accuracy=74.7, epoch=14, loss=tensor(1.2052, device='cuda:0', grad_fn=<AddBackward0>), mode=train]Train Epoch: 14          Loss : 1.205219         step: 400       Train Accuracy: 74.739603 
+ 96%|████████████▌| 500/519 [06:53<00:15,  1.21it/s, accuracy=93.8, epoch=14, loss=tensor(1.1758, device='cuda:0', grad_fn=<AddBackward0>), mode=train]Train Epoch: 14          Loss : 1.175820         step: 500       Train Accuracy: 93.765913 
+100%|█████████████| 519/519 [07:08<00:00,  1.21it/s, accuracy=97.1, epoch=14, loss=tensor(0.5595, device='cuda:0', grad_fn=<AddBackward0>), mode=train]
+Train Accuracy: 97.083558
+100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 548/548 [02:02<00:00,  4.46it/s]
+test-average loss: 0.3130, Accuracy:15.004 
+
+  0%|                      | 0/519 [00:00<?, ?it/s, accuracy=0.193, epoch=15, loss=tensor(1.1862, device='cuda:0', grad_fn=<AddBackward0>), mode=train]Train Epoch: 15          Loss : 1.186248         step: 0         Train Accuracy: 0.192886 
+ 19%|██▌          | 100/519 [01:23<05:45,  1.21it/s, accuracy=18.8, epoch=15, loss=tensor(1.2116, device='cuda:0', grad_fn=<AddBackward0>), mode=train]Train Epoch: 15          Loss : 1.211625         step: 100       Train Accuracy: 18.817992 
+ 39%|█████        | 200/519 [02:45<04:23,  1.21it/s, accuracy=37.6, epoch=15, loss=tensor(1.1912, device='cuda:0', grad_fn=<AddBackward0>), mode=train]Train Epoch: 15          Loss : 1.191206         step: 200       Train Accuracy: 37.620554 
+ 58%|███████▌     | 300/519 [04:07<03:00,  1.21it/s, accuracy=56.8, epoch=15, loss=tensor(1.1435, device='cuda:0', grad_fn=<AddBackward0>), mode=train]Train Epoch: 15          Loss : 1.143509         step: 300       Train Accuracy: 56.762595 
+ 77%|██████████   | 400/519 [05:30<01:38,  1.21it/s, accuracy=75.8, epoch=15, loss=tensor(1.1856, device='cuda:0', grad_fn=<AddBackward0>), mode=train]Train Epoch: 15          Loss : 1.185641         step: 400       Train Accuracy: 75.796621 
+ 96%|██████████████▍| 500/519 [06:52<00:15,  1.21it/s, accuracy=95, epoch=15, loss=tensor(1.0032, device='cuda:0', grad_fn=<AddBackward0>), mode=train]Train Epoch: 15          Loss : 1.003239         step: 500       Train Accuracy: 95.015817 
+100%|█████████████| 519/519 [07:07<00:00,  1.21it/s, accuracy=98.4, epoch=15, loss=tensor(0.5311, device='cuda:0', grad_fn=<AddBackward0>), mode=train]
+Train Accuracy: 98.364324
+100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 548/548 [02:03<00:00,  4.45it/s]
+test-average loss: 0.2916, Accuracy:15.902 
+
+  0%|                      | 0/519 [00:00<?, ?it/s, accuracy=0.193, epoch=16, loss=tensor(1.0407, device='cuda:0', grad_fn=<AddBackward0>), mode=train]Train Epoch: 16          Loss : 1.040714         step: 0         Train Accuracy: 0.192886 
+ 19%|██▌          | 100/519 [01:23<05:45,  1.21it/s, accuracy=19.2, epoch=16, loss=tensor(1.0244, device='cuda:0', grad_fn=<AddBackward0>), mode=train]Train Epoch: 16          Loss : 1.024379         step: 100       Train Accuracy: 19.157472 
+ 39%|█████        | 200/519 [02:45<04:23,  1.21it/s, accuracy=38.3, epoch=16, loss=tensor(1.0172, device='cuda:0', grad_fn=<AddBackward0>), mode=train]Train Epoch: 16          Loss : 1.017151         step: 200       Train Accuracy: 38.322660 
+ 58%|███████▌     | 300/519 [04:08<03:00,  1.21it/s, accuracy=57.6, epoch=16, loss=tensor(1.0082, device='cuda:0', grad_fn=<AddBackward0>), mode=train]Train Epoch: 16          Loss : 1.008162         step: 300       Train Accuracy: 57.557287 
+ 77%|██████████   | 400/519 [05:31<01:38,  1.21it/s, accuracy=76.7, epoch=16, loss=tensor(0.9513, device='cuda:0', grad_fn=<AddBackward0>), mode=train]Train Epoch: 16          Loss : 0.951319         step: 400       Train Accuracy: 76.737906 
+ 96%|██████████████▍| 500/519 [06:53<00:15,  1.21it/s, accuracy=96, epoch=16, loss=tensor(0.9243, device='cuda:0', grad_fn=<AddBackward0>), mode=train]Train Epoch: 16          Loss : 0.924347         step: 500       Train Accuracy: 96.003395 
+100%|█████████████| 519/519 [07:08<00:00,  1.21it/s, accuracy=99.3, epoch=16, loss=tensor(0.4293, device='cuda:0', grad_fn=<AddBackward0>), mode=train]
+Train Accuracy: 99.344186
+100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 548/548 [02:03<00:00,  4.45it/s]
+test-average loss: 0.1979, Accuracy:20.904 
+
+  0%|                      | 0/519 [00:00<?, ?it/s, accuracy=0.193, epoch=17, loss=tensor(0.9752, device='cuda:0', grad_fn=<AddBackward0>), mode=train]Train Epoch: 17          Loss : 0.975214         step: 0         Train Accuracy: 0.192886 
+ 19%|██▌          | 100/519 [01:23<05:44,  1.21it/s, accuracy=19.4, epoch=17, loss=tensor(0.9219, device='cuda:0', grad_fn=<AddBackward0>), mode=train]Train Epoch: 17          Loss : 0.921910         step: 100       Train Accuracy: 19.412082 
+ 39%|█████        | 200/519 [02:45<04:23,  1.21it/s, accuracy=38.7, epoch=17, loss=tensor(0.9192, device='cuda:0', grad_fn=<AddBackward0>), mode=train]Train Epoch: 17          Loss : 0.919233         step: 200       Train Accuracy: 38.662140 
+ 58%|███████▌     | 300/519 [04:07<03:01,  1.21it/s, accuracy=57.8, epoch=17, loss=tensor(1.0478, device='cuda:0', grad_fn=<AddBackward0>), mode=train]Train Epoch: 17          Loss : 1.047752         step: 300       Train Accuracy: 57.788751 
+ 77%|██████████   | 400/519 [05:30<01:38,  1.21it/s, accuracy=76.8, epoch=17, loss=tensor(0.9093, device='cuda:0', grad_fn=<AddBackward0>), mode=train]Train Epoch: 17          Loss : 0.909268         step: 400       Train Accuracy: 76.830491 
+ 96%|████████████▌| 500/519 [06:52<00:15,  1.21it/s, accuracy=96.1, epoch=17, loss=tensor(0.9203, device='cuda:0', grad_fn=<AddBackward0>), mode=train]Train Epoch: 17          Loss : 0.920346         step: 500       Train Accuracy: 96.088265 
+100%|█████████████| 519/519 [07:07<00:00,  1.21it/s, accuracy=99.4, epoch=17, loss=tensor(0.4233, device='cuda:0', grad_fn=<AddBackward0>), mode=train]
+Train Accuracy: 99.436772
+100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 548/548 [02:03<00:00,  4.45it/s]
+test-average loss: 0.2279, Accuracy:17.779 
+
+  0%|                      | 0/519 [00:00<?, ?it/s, accuracy=0.185, epoch=18, loss=tensor(0.9608, device='cuda:0', grad_fn=<AddBackward0>), mode=train]Train Epoch: 18          Loss : 0.960798         step: 0         Train Accuracy: 0.185171 
+ 19%|██▌          | 100/519 [01:23<05:49,  1.20it/s, accuracy=19.4, epoch=18, loss=tensor(0.9311, device='cuda:0', grad_fn=<AddBackward0>), mode=train]Train Epoch: 18          Loss : 0.931145         step: 100       Train Accuracy: 19.404367 
+ 39%|█████        | 200/519 [02:45<04:23,  1.21it/s, accuracy=38.7, epoch=18, loss=tensor(0.9124, device='cuda:0', grad_fn=<AddBackward0>), mode=train]Train Epoch: 18          Loss : 0.912354         step: 200       Train Accuracy: 38.669856 
+ 58%|███████▌     | 300/519 [04:08<03:00,  1.21it/s, accuracy=57.9, epoch=18, loss=tensor(0.9155, device='cuda:0', grad_fn=<AddBackward0>), mode=train]Train Epoch: 18          Loss : 0.915479         step: 300       Train Accuracy: 57.943060 
+ 77%|██████████   | 400/519 [05:30<01:38,  1.21it/s, accuracy=77.1, epoch=18, loss=tensor(0.9498, device='cuda:0', grad_fn=<AddBackward0>), mode=train]Train Epoch: 18          Loss : 0.949773         step: 400       Train Accuracy: 77.131394 
+ 96%|████████████▌| 500/519 [06:53<00:15,  1.21it/s, accuracy=94.5, epoch=18, loss=tensor(0.9590, device='cuda:0', grad_fn=<AddBackward0>), mode=train]Train Epoch: 18          Loss : 0.959025         step: 500       Train Accuracy: 94.498881 
+100%|█████████████| 519/519 [07:07<00:00,  1.21it/s, accuracy=97.8, epoch=18, loss=tensor(0.4775, device='cuda:0', grad_fn=<AddBackward0>), mode=train]
+Train Accuracy: 97.801096
+100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 548/548 [02:03<00:00,  4.44it/s]
+test-average loss: 0.2788, Accuracy:23.649 
+
+  0%|                      | 0/519 [00:00<?, ?it/s, accuracy=0.185, epoch=19, loss=tensor(0.9967, device='cuda:0', grad_fn=<AddBackward0>), mode=train]Train Epoch: 19          Loss : 0.996742         step: 0         Train Accuracy: 0.185171 
+ 19%|██▌          | 100/519 [01:23<05:45,  1.21it/s, accuracy=19.3, epoch=19, loss=tensor(0.9172, device='cuda:0', grad_fn=<AddBackward0>), mode=train]Train Epoch: 19          Loss : 0.917163         step: 100       Train Accuracy: 19.334928 
+ 39%|█████        | 200/519 [02:45<04:23,  1.21it/s, accuracy=38.6, epoch=19, loss=tensor(0.9070, device='cuda:0', grad_fn=<AddBackward0>), mode=train]Train Epoch: 19          Loss : 0.907044         step: 200       Train Accuracy: 38.569555 
+ 58%|███████▌     | 300/519 [04:08<03:00,  1.21it/s, accuracy=57.8, epoch=19, loss=tensor(0.9170, device='cuda:0', grad_fn=<AddBackward0>), mode=train]Train Epoch: 19          Loss : 0.916977         step: 300       Train Accuracy: 57.796466 
+ 77%|███████████▌   | 400/519 [05:30<01:38,  1.21it/s, accuracy=77, epoch=19, loss=tensor(1.0236, device='cuda:0', grad_fn=<AddBackward0>), mode=train]Train Epoch: 19          Loss : 1.023631         step: 400       Train Accuracy: 77.031093 
+ 96%|████████████▌| 500/519 [06:53<00:15,  1.22it/s, accuracy=96.3, epoch=19, loss=tensor(0.8951, device='cuda:0', grad_fn=<AddBackward0>), mode=train]Train Epoch: 19          Loss : 0.895060         step: 500       Train Accuracy: 96.273436 
+100%|█████████████| 519/519 [07:08<00:00,  1.21it/s, accuracy=99.6, epoch=19, loss=tensor(0.4072, device='cuda:0', grad_fn=<AddBackward0>), mode=train]
+Train Accuracy: 99.621943
+100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 548/548 [02:02<00:00,  4.47it/s]
+test-average loss: 0.6433, Accuracy:15.048 
+
+  0%|                      | 0/519 [00:00<?, ?it/s, accuracy=0.193, epoch=20, loss=tensor(0.9467, device='cuda:0', grad_fn=<AddBackward0>), mode=train]Train Epoch: 20          Loss : 0.946684         step: 0         Train Accuracy: 0.192886 
+ 19%|██▌          | 100/519 [01:23<05:45,  1.21it/s, accuracy=19.5, epoch=20, loss=tensor(0.9074, device='cuda:0', grad_fn=<AddBackward0>), mode=train]Train Epoch: 20          Loss : 0.907395         step: 100       Train Accuracy: 19.458375 
+ 39%|█████        | 200/519 [02:45<04:23,  1.21it/s, accuracy=38.7, epoch=20, loss=tensor(0.9316, device='cuda:0', grad_fn=<AddBackward0>), mode=train]Train Epoch: 20          Loss : 0.931587         step: 200       Train Accuracy: 38.716148 
+ 58%|████████▋      | 300/519 [04:07<03:00,  1.21it/s, accuracy=58, epoch=20, loss=tensor(0.9567, device='cuda:0', grad_fn=<AddBackward0>), mode=train]Train Epoch: 20          Loss : 0.956692         step: 300       Train Accuracy: 57.958491 
+ 77%|███████████▌   | 400/519 [05:30<01:37,  1.22it/s, accuracy=77, epoch=20, loss=tensor(1.0631, device='cuda:0', grad_fn=<AddBackward0>), mode=train]Train Epoch: 20          Loss : 1.063087         step: 400       Train Accuracy: 77.015662 
+ 96%|████████████▌| 500/519 [06:52<00:15,  1.21it/s, accuracy=95.7, epoch=20, loss=tensor(0.9733, device='cuda:0', grad_fn=<AddBackward0>), mode=train]Train Epoch: 20          Loss : 0.973341         step: 500       Train Accuracy: 95.717923 
+100%|███████████████| 519/519 [07:07<00:00,  1.21it/s, accuracy=99, epoch=20, loss=tensor(0.5215, device='cuda:0', grad_fn=<AddBackward0>), mode=train]
+Train Accuracy: 99.043284
+100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 548/548 [02:02<00:00,  4.47it/s]
+test-average loss: 0.7691, Accuracy:11.142 
