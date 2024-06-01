@@ -1,4 +1,4 @@
-# Batch Normalization & Activation
+# 5.16 Batch Normalization & Activation
 我反复检查了自己的数据构建，并没有发现什么问题。断点调试发现有些地方特征图数值非常小，有的甚至成了负数，检查后发现很多卷积块、attention块后面没加归一化和激活函数（汗、、）。查阅了一下BN和LN的区别后，我在卷积块后面补充了BN，在Transformer块后面补充了LN。
 但是最终效果仍在18%左右。
 
