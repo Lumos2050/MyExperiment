@@ -1,4 +1,4 @@
-# 在融合阶段添加了重构误差，reconstruction_loss = mse_loss(z6, z12)
+# 5.29 在融合阶段添加了重构误差，reconstruction_loss = mse_loss(z6, z12)
 
 z3(融合态1)(H, W, C)
 
