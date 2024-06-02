@@ -1,6 +1,6 @@
 # MyExperiment
 This repository is one record for the experiment of my research：**An Edge Supervision Aided Dual Attention Transformer for MS and PAN Classification**. 
-There were problems with the initial structure design and code architecture, and I have been modifying the network structure and adjusting hyperparameters for more than a month now.
+There were problems with the initial structure design and code architecture, and I have been modifying the network structure and adjusting hyperparameters for a month now.
 
 Each version containing the network structure changes is placed in a "Test x" folder.
 # Explanation
