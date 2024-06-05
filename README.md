@@ -8,4 +8,6 @@ My current dataset is MS and PAN images of Hohhot. In the beginning my network's
 
 The changes and problems found in each version are marked in its folder. Found hard defects (such as forgetting to add normalization) are retained in all subsequent versions after modification. Other changes will be retained or deleted according to the effect.
 
-**6.1 Test14 version raised the OA from 30% to 64%**, and I have not calculated the correct rate of other methods. My current task is to raise the project OA to more than 70% (because the current SOTA calculation methods are around 70%), and then use multiple data sets to calculate the accuracy of various categories, AA and Kappa.
+**6.1 Test14 version raised the OA from 30% to 64%, and 6.3 Test15 version raised it from 64% to 67%.** My current task is to raise the project OA to more than 70% (because the current SOTA calculation methods are around 70%). Then I will use multiple data sets to calculate the accuracy of various categories, AA and Kappa.
+
+The statement of my work is displayed in **"科研实习说明.docx"**. 
