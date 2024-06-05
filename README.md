@@ -11,3 +11,6 @@ The changes and problems found in each version are marked in its folder. Found h
 **6.1 Test14 version raised the OA from 30% to 64%, and 6.3 Test15 version raised it from 64% to 67%.** My current task is to raise the project OA to more than 70% (because the current SOTA calculation methods are around 70%). Then I will use multiple data sets to calculate the accuracy of various categories, AA and Kappa.
 
 The statement of my work is displayed in **"科研实习说明.docx"**. 
+
+#Ps
+My thesis supervisor is Zhu Hao, associate professor of Xidian University. He has some achievements in deep learning and remote sensing image processing. He supervises undergraduate research and publishes papers in IEEE TGRS journals(IF:8.2, 中科院一区top). This is his personal homepage at https://faculty.xidian.edu.cn/ZHUHAO/zh_CN/index.htm
